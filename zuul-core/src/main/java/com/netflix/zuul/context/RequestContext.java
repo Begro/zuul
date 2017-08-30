@@ -537,7 +537,7 @@ public class RequestContext extends ConcurrentHashMap<String, Object> {
     }
 
     /**
-     * Mkaes a copy of the RequestContext. This is used for debugging.
+     * Makes a copy of the RequestContext. This is used for debugging.
      *
      * @return
      */
